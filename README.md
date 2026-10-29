@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Media+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 QMPlay2 Free Installer** — QMPlay2 is a free, open-source video and audio player for Windows, macOS, and Linux with a built-in YouTube browser, downloader, radio stream support, and visualizations. Works without internet access, no account required. Full offline installation.
+**💻 QMPlay2 Free Installer** — QMPlay2 is a free, cross-platform video and audio player supporting a wide range of formats through FFmpeg and libmpv. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About QMPlay2
 
-QMPlay2 is a free, open-source video and audio player for Windows, macOS, and Linux with a built-in YouTube browser, downloader, radio stream support, and visualizations. Based on FFmpeg, QMPlay2 plays virtually any media format with GPU-accelerated decoding. Its all-in-one design combines media playback, YouTube browsing, and radio in a single application.
+QMPlay2 is a free, cross-platform video and audio player supporting a wide range of formats through FFmpeg and libmpv. It features YouTube and Twitch playback, a built-in equalizer, visualizations, subtitle support, and extensions for adding streaming services.
 
 ---
 
 ## ❌ Problem: QMPlay2 is hard to access
 
-- **Interface Complexity** — Feature-dense interface may be overwhelming for simple playback use
-- **YouTube Integration** — API changes can affect YouTube browsing functionality
-- **Mainstream Alternatives** — VLC and MPV more widely recommended for pure playback
-- **Performance** — GPU acceleration requires compatible hardware for best performance
+- **Complex Interface** — Feature-rich but overwhelming for users wanting a simple media player
+- **Linux-Primary** — Windows and macOS builds less polished than the Linux version
+- **YouTube Integration Breaks** — YouTube playback regularly breaks with API changes
+- **Limited Touch Support** — Interface not optimized for touchscreen operation
 
 ---
 
@@ -121,7 +121,7 @@ QMPlay2 is a free, open-source video and audio player for Windows, macOS, and Li
 
 ---
 
-**QMPlay2 Free Installer** — QMPlay2 is a free, open-source video and audio player for Windows, macOS, and Linux with a built-in YouTube browser, downloader, radio stream support, and visualizations. Install without internet connection today!
+**QMPlay2 Free Installer** — QMPlay2 is a free, cross-platform video and audio player supporting a wide range of formats through FFmpeg and libmpv. Install without internet connection today!
 
 <div align="center">
 
